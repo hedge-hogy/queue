@@ -1,0 +1,2 @@
+# queue
+Template queue class
